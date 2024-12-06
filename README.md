@@ -114,6 +114,7 @@ The proposed system is compared with traditional edge detection operators (e.g.,
 | **MSE** | Salt & Pepper  | 0.019 |
 | **PSNR** | Salt & Pepper | 23.88 |
 | **SSIM** | Poisson       | 0.9615 |
+
 ![res](https://github.com/user-attachments/assets/a12f809a-3980-4303-af47-99fe5b5f5439)
 
 ---
